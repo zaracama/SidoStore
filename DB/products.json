@@ -1,0 +1,522 @@
+[
+   {
+      "name": "Kukubima",
+      "excerpt": "Herbal Drink for Men's Vitality",
+      "slug": "kukubima",
+      "size": "200 ml",
+      "description": [
+        "A herbal drink specially formulated to enhance men's vitality and stamina."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Longjack",
+          "heroDesc": "Longjack is a traditional aphrodisiac plant known to enhance libido and stamina in men."
+        },
+        {
+          "heroName": "Turmeric",
+          "heroDesc": "Turmeric has anti-inflammatory properties and improves blood flow to the reproductive organs, aiding in enhancing men's sexual health."
+        },
+        {
+          "heroName": "Coffee",
+          "heroDesc": "Coffee contains caffeine which can boost energy, focus, and physical performance."
+        }
+      ],
+      "fullIngredients": "Longjack Extract, Turmeric Extract, Arabica Coffee, Sugar, Water",
+      "price": 30000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/5/_/5_11.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Tolak Angin",
+      "excerpt": "Herbal Supplement to Boost Immunity",
+      "slug": "tolak-angin",
+      "size": "100 ml",
+      "description": [
+        "A herbal supplement made from natural ingredients to boost immunity and aid digestion."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Ginger",
+          "heroDesc": "Ginger has anti-inflammatory and antimicrobial properties, helping with stomach issues and boosting the immune system."
+        },
+        {
+          "heroName": "Cinnamon",
+          "heroDesc": "Cinnamon has antioxidant and anti-inflammatory properties, aiding in improving blood circulation and reducing the risk of infections."
+        },
+        {
+          "heroName": "Turmeric",
+          "heroDesc": "Turmeric is rich in curcumin which has anti-inflammatory properties and stimulates digestive enzyme production, helping to alleviate digestive issues."
+        }
+      ],
+      "fullIngredients": "Ginger Extract, Cinnamon Extract, Turmeric Extract, Honey, Water, Fennel Extract",
+      "price": 25000,
+      "category": "Herbs",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_29.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Natural Black Cumin 30 Capsules",
+      "excerpt": "Natural Supplement for Immune System Support",
+      "slug": "natural-black-cumin",
+      "size": "30 capsules",
+      "description": [
+        "Sido Muncul Natural Black Cumin capsules are a natural supplement to support the immune system and overall health."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Black Cumin Seed Extract",
+          "heroDesc": "Black cumin seeds are rich in antioxidants and have been traditionally used to support immune function and promote overall wellness."
+        },
+        {
+          "heroName": "Ginger Extract",
+          "heroDesc": "Ginger has anti-inflammatory and immune-boosting properties, aiding in strengthening the body's defenses against illnesses."
+        },
+        {
+          "heroName": "Honey",
+          "heroDesc": "Honey is known for its antibacterial and antiviral properties, helping to fight off infections and promote healing."
+        }
+      ],
+      "fullIngredients": "Black Cumin Seed Extract, Ginger Extract, Honey, Gelatin, Glycerin, Purified Water",
+      "price": 35000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_41.png?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Natural Vitamin E 100 IU Soft Capsule",
+      "excerpt": "Natural Supplement for Antioxidant Support",
+      "slug": "natural-vitamin-e",
+      "size": "50 soft capsules",
+      "description": [
+        "Sido Muncul Natural Vitamin E soft capsules provide antioxidant support for overall health and well-being."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Vitamin E (d-alpha tocopherol)",
+          "heroDesc": "Vitamin E is a powerful antioxidant that helps protect cells from damage caused by free radicals, supporting immune function and skin health."
+        },
+        {
+          "heroName": "Soybean Oil",
+          "heroDesc": "Soybean oil is rich in unsaturated fats and vitamin E, promoting heart health and reducing inflammation in the body."
+        },
+        {
+          "heroName": "Gelatin",
+          "heroDesc": "Gelatin is used to encapsulate the vitamin E oil, providing a convenient and easy-to-swallow soft capsule."
+        }
+      ],
+      "fullIngredients": "Vitamin E (d-alpha tocopherol), Soybean Oil, Gelatin, Glycerin, Purified Water",
+      "price": 40000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_2.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Vitamin C 1000 Orange Powder",
+      "excerpt": "Orange Flavored Powder for Immune System Support",
+      "slug": "vitamin-c-1000-orange-powder",
+      "size": "6 sachets",
+      "description": [
+        "Sido Muncul Vitamin C 1000 Orange Powder provides a convenient and delicious way to support your immune system and overall health."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Vitamin C (Ascorbic Acid)",
+          "heroDesc": "Vitamin C is a powerful antioxidant that helps boost the immune system, promote collagen production for skin health, and improve iron absorption."
+        },
+        {
+          "heroName": "Orange Flavor",
+          "heroDesc": "Natural orange flavor adds a refreshing taste to the powder, making it enjoyable to consume and easy to incorporate into your daily routine."
+        },
+        {
+          "heroName": "Fructose",
+          "heroDesc": "Fructose is a natural sweetener derived from fruits, providing a pleasant sweetness to the powder without the need for added sugar."
+        }
+      ],
+      "fullIngredients": "Vitamin C (Ascorbic Acid), Orange Flavor, Fructose, Citric Acid, Sodium Bicarbonate",
+      "price": 25000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_188.jpg?width=72&height=115&store=default&image-type=thumbnail.jpg"
+    },
+    {
+      "name": "Sido Muncul Natural Vitamin D3 400 IU Soft Capsule",
+      "excerpt": "Natural Supplement for Bone Health",
+      "slug": "natural-vitamin-d3",
+      "size": "50 soft capsules",
+      "description": [
+        "Sido Muncul Natural Vitamin D3 soft capsules provide essential support for bone health and overall well-being."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Vitamin D3 (Cholecalciferol)",
+          "heroDesc": "Vitamin D3 is crucial for maintaining strong bones and teeth, regulating calcium absorption, and supporting immune function."
+        },
+        {
+          "heroName": "Sunflower Oil",
+          "heroDesc": "Sunflower oil is rich in unsaturated fats and vitamin E, aiding in cardiovascular health and promoting healthy skin."
+        },
+        {
+          "heroName": "Gelatin",
+          "heroDesc": "Gelatin is used to encapsulate the vitamin D3 oil, providing a convenient and easy-to-swallow soft capsule."
+        }
+      ],
+      "fullIngredients": "Vitamin D3 (Cholecalciferol), Sunflower Oil, Gelatin, Glycerin, Purified Water",
+      "price": 45000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_3.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul CoQ10 Coenzyme Q10 Soft Capsule",
+      "excerpt": "Antioxidant Supplement to Combat Free Radicals",
+      "slug": "coq10-coenzyme-q10",
+      "size": "60 soft capsules",
+      "description": [
+        "Sido Muncul CoQ10 Coenzyme Q10 Soft Capsule is a powerful antioxidant supplement designed to combat free radicals and promote overall health."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Coenzyme Q10 (CoQ10)",
+          "heroDesc": "Coenzyme Q10 is a naturally occurring antioxidant in the body, vital for energy production in cells and protecting against oxidative stress."
+        },
+        {
+          "heroName": "Soybean Oil",
+          "heroDesc": "Soybean oil is rich in unsaturated fats and vitamin E, supporting heart health and reducing inflammation in the body."
+        },
+        {
+          "heroName": "Gelatin",
+          "heroDesc": "Gelatin is used to encapsulate the CoQ10 oil, providing a convenient and easy-to-swallow soft capsule."
+        }
+      ],
+      "fullIngredients": "Coenzyme Q10 (CoQ10), Soybean Oil, Gelatin, Glycerin, Purified Water",
+      "price": 55000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_74.png?width=72&height=115&store=default&image-type=thumbnail.jpg"
+    },
+    {
+      "name": "Sido Muncul Jamu Gemuk Sehat",
+      "excerpt": "Herbal Supplement to Enhance Appetite",
+      "slug": "jamu-gemuk-sehat",
+      "size": "10 sachets",
+      "description": [
+        "Sido Muncul Jamu Gemuk Sehat is a herbal supplement formulated to help improve appetite and promote healthy weight gain."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Ginger",
+          "heroDesc": "Ginger is known to stimulate digestion and increase appetite, aiding in better nutrient absorption."
+        },
+        {
+          "heroName": "Turmeric",
+          "heroDesc": "Turmeric has digestive properties and helps in relieving gastrointestinal discomfort, thus improving appetite."
+        },
+        {
+          "heroName": "Fennel",
+          "heroDesc": "Fennel seeds stimulate the production of gastric juices and aid in digestion, enhancing appetite."
+        }
+      ],
+      "fullIngredients": "Ginger, Turmeric, Fennel, Palm Sugar, Salt",
+      "price": 15000,
+      "category": "Herbs",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_187.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Jamu Komplit Sehat Pria Jeruk Nipis",
+      "excerpt": "Immune System Support for Men",
+      "slug": "jamu-komplit-sehat-pria-jeruk-nipis",
+      "size": "20 sachets",
+      "description": [
+        "Sido Muncul Jamu Komplit Sehat Pria Jeruk Nipis is specially formulated to provide comprehensive immune system support for men."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Turmeric",
+          "heroDesc": "Turmeric is rich in curcumin, which has anti-inflammatory and antioxidant properties, helping to boost the immune system."
+        },
+        {
+          "heroName": "Lime",
+          "heroDesc": "Lime is a good source of vitamin C, essential for immune health and overall well-being."
+        },
+        {
+          "heroName": "Ginger",
+          "heroDesc": "Ginger contains gingerol, known for its immune-boosting and anti-inflammatory effects, promoting overall health."
+        }
+      ],
+      "fullIngredients": "Turmeric, Lime, Ginger, Palm Sugar, Salt",
+      "price": 20000,
+      "category": "Herbs",
+    "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_22.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Powder Blend Mix Kunyit Asam + Kunyit Asam",
+      "excerpt": "Turmeric Tamarind Blend Powder",
+      "slug": "powder-blend-mix-kunyit-asam",
+      "size": "5 sachets",
+      "description": [
+        "Sido Muncul Powder Blend Mix Kunyit Asam + Kunyit Asam is a convenient mixture of turmeric and tamarind powder, offering various health benefits."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Turmeric",
+          "heroDesc": "Turmeric is known for its anti-inflammatory and antioxidant properties, aiding in digestion and promoting overall well-being."
+        },
+        {
+          "heroName": "Tamarind",
+          "heroDesc": "Tamarind is rich in vitamins and minerals, supporting digestive health and providing relief from indigestion."
+        }
+      ],
+      "fullIngredients": "Turmeric Powder, Tamarind Powder, Sugar",
+      "price": 10000,
+      "category": "Herbs",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_120.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Minuman Susu Jahe",
+      "excerpt": "Body Warming Ginger Milk Drink",
+      "slug": "minuman-susu-jahe",
+      "size": "10 sachets",
+      "description": [
+        "Sido Muncul Minuman Susu Jahe is a comforting drink infused with ginger and milk, designed to warm the body and provide soothing relief."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Ginger",
+          "heroDesc": "Ginger is known for its warming properties and ability to promote circulation, providing comfort and relaxation."
+        },
+        {
+          "heroName": "Milk",
+          "heroDesc": "Milk is a rich source of calcium and vitamins, supporting bone health and providing essential nutrients for the body."
+        }
+      ],
+      "fullIngredients": "Ginger Extract, Milk Powder, Sugar",
+      "price": 12000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_180.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Madu Sido Original",
+      "excerpt": "Pure Honey for Body Health",
+      "slug": "madu-sido-original",
+      "size": "12 sachets",
+      "description": [
+        "Sido Muncul Madu Sido Original is pure honey sourced from nature, known for its various health benefits and nutritional properties."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Honey",
+          "heroDesc": "Honey is rich in antioxidants, vitamins, and minerals, promoting overall health and providing natural energy."
+        }
+      ],
+      "fullIngredients": "100% Pure Honey",
+      "price": 25000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/i/sido_muncul_madu_sido_original_1.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Permen Tolak Angin Bebas Gula",
+      "excerpt": "Sugar-Free Throat Lozenges for Soothing",
+      "slug": "permen-tolak-angin-bebas-gula",
+      "size": "15 lozenges",
+      "description": [
+        "Sido Muncul Permen Tolak Angin Bebas Gula are sugar-free throat lozenges specially formulated to soothe a scratchy throat and provide relief."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Herbal Extracts",
+          "heroDesc": "Contains a blend of herbal extracts like ginger and mint known for their soothing and cooling properties, providing relief to a sore throat."
+        },
+        {
+          "heroName": "Xylitol",
+          "heroDesc": "Xylitol is a natural sweetener derived from birch bark, providing sweetness without the use of sugar and promoting dental health."
+        }
+      ],
+      "fullIngredients": "Herbal Extracts (Ginger, Mint), Xylitol, Isomalt, Maltitol, Sucralose",
+      "price": 10000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_66.png?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Kuku Bima Ener-G! RTD Red Berry",
+      "excerpt": "Energy Drink to Boost Stamina and Refresh the Body",
+      "slug": "kuku-bima-ener-g-rtd-red-berry",
+      "size": "250 ml",
+      "description": [
+        "Kuku Bima Ener-G! RTD Red Berry is an energy drink formulated to boost stamina and refresh the body, providing a quick and convenient source of energy."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Red Berry Extracts",
+          "heroDesc": "Contains extracts from red berries like strawberries and raspberries, known for their antioxidant properties and ability to provide a refreshing taste."
+        },
+        {
+          "heroName": "Ginseng",
+          "heroDesc": "Ginseng is a traditional herb known for its energy-boosting properties, helping to increase stamina and combat fatigue."
+        },
+        {
+          "heroName": "Vitamins B",
+          "heroDesc": "Enriched with vitamins B complex, essential for energy metabolism and supporting overall vitality."
+        }
+      ],
+      "fullIngredients": "Water, Red Berry Extracts, Sugar, Ginseng Extract, Citric Acid, Vitamins B Complex, Artificial Flavorings",
+      "price": 15000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/k/u/kuku_bima_ener-g_rtd_red_berry_1.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Kliin Hand Gel",
+      "excerpt": "Hand Sanitizer with 70% Alcohol",
+      "slug": "sido-kliin-hand-gel",
+      "size": "100 ml",
+      "description": [
+        "Sido Kliin Hand Gel is a hand sanitizer formulated with 70% alcohol to effectively kill germs and bacteria, providing convenient hand hygiene on the go."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Alcohol (Ethanol)",
+          "heroDesc": "Contains 70% alcohol (ethanol) as the active ingredient, proven to kill 99.9% of germs and bacteria upon contact."
+        },
+        {
+          "heroName": "Aloe Vera Extract",
+          "heroDesc": "Enriched with aloe vera extract to moisturize and soothe the skin, preventing dryness and irritation from frequent use."
+        },
+        {
+          "heroName": "Glycerin",
+          "heroDesc": "Glycerin helps to retain moisture in the skin, leaving hands feeling soft and hydrated after each use."
+        }
+      ],
+      "fullIngredients": "Alcohol (Ethanol), Water, Aloe Vera Extract, Glycerin, Carbomer, Triethanolamine, Fragrance",
+      "price": 12000,
+      "category": "Personal Care",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_70.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Sido Muncul Balsem",
+      "excerpt": "Relieves Cold, Nausea, and Muscle Pain",
+      "slug": "sido-muncul-balsem",
+      "size": "20 grams",
+      "description": [
+        "Sido Muncul Balsem is a topical ointment formulated to relieve symptoms of cold, nausea, and muscle pain, providing soothing relief."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Camphor",
+          "heroDesc": "Camphor provides a cooling sensation and helps relieve nasal congestion, nausea, and muscle pain."
+        },
+        {
+          "heroName": "Menthol",
+          "heroDesc": "Menthol has a refreshing aroma and analgesic properties, soothing muscle aches and reducing discomfort."
+        },
+        {
+          "heroName": "Eucalyptus Oil",
+          "heroDesc": "Eucalyptus oil has antimicrobial properties and helps clear nasal passages, providing relief from cold symptoms."
+        }
+      ],
+      "fullIngredients": "Camphor, Menthol, Eucalyptus Oil, Beeswax, Paraffin",
+      "price": 15000,
+      "category": "Personal Care",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/1/_/1_17.jpeg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Minyak Telon Tiga Anak",
+      "excerpt": "Relieves Infant's Bloated Stomach by Warming",
+      "slug": "minyak-telon-tiga-anak",
+      "size": "90 mL",
+      "description": [
+        "Minyak Telon Tiga Anak is a traditional herbal oil blend formulated to relieve bloated stomach in infants by providing gentle warmth and comfort."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Clove Oil",
+          "heroDesc": "Clove oil aids in digestion and relieves bloating, providing relief to infants with stomach discomfort."
+        },
+        {
+          "heroName": "Fennel Oil",
+          "heroDesc": "Fennel oil has carminative properties, helping to reduce gas and bloating in babies' stomachs."
+        },
+        {
+          "heroName": "Coconut Oil",
+          "heroDesc": "Coconut oil moisturizes and nourishes the skin, while also providing a gentle warming sensation to alleviate stomach discomfort."
+        }
+      ],
+      "fullIngredients": "Clove Oil, Fennel Oil, Coconut Oil",
+      "price": 20000,
+      "category": "Personal Care",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_56.png?width=72&height=115&store=default&image-type=thumbnail.jpg"
+    },
+    {
+      "name": "Tolak Angin Care Aromatherapy Wind Oil",
+      "excerpt": "Relieves Itching with Aromatherapy Wind Oil",
+      "slug": "tolak-angin-care-aromatherapy-wind-oil",
+      "size": "10 ml",
+      "description": [
+        "Tolak Angin Care Aromatherapy Wind Oil is specially formulated to relieve itching using the power of aromatherapy wind oil."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Eucalyptus Oil",
+          "heroDesc": "Eucalyptus oil has anti-inflammatory and soothing properties, providing relief from itching and irritation."
+        },
+        {
+          "heroName": "Peppermint Oil",
+          "heroDesc": "Peppermint oil has a cooling sensation and numbing effect, helping to alleviate itching and discomfort."
+        },
+        {
+          "heroName": "Lavender Oil",
+          "heroDesc": "Lavender oil has calming and anti-inflammatory effects, reducing itching and promoting relaxation."
+        }
+      ],
+      "fullIngredients": "Eucalyptus Oil, Peppermint Oil, Lavender Oil, Carrier Oil",
+      "price": 25000,
+      "category": "Personal Care",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_179.jpg?width=490&height=620&store=default&image-type=image.jpg"
+    },
+    {
+      "name": "Tolak Angin Bebas Gula Cair",
+      "excerpt": "Herbal Relief for Common Cold",
+      "slug": "tolak-angin-bebas-gula-cair",
+      "size": "5 sachets",
+      "description": [
+        "Tolak Angin Bebas Gula Cair is a herbal remedy specially formulated to provide relief from common cold symptoms without added sugar."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Ginger Extract",
+          "heroDesc": "Ginger extract helps to alleviate symptoms of the common cold such as nasal congestion and sore throat."
+        },
+        {
+          "heroName": "Peppermint Oil",
+          "heroDesc": "Peppermint oil provides a soothing effect on the throat and helps to relieve coughs and respiratory discomfort."
+        },
+        {
+          "heroName": "Clove Oil",
+          "heroDesc": "Clove oil has antibacterial properties and helps to reduce inflammation in the throat, providing relief from cold symptoms."
+        }
+      ],
+      "fullIngredients": "Ginger Extract, Peppermint Oil, Clove Oil, Herbal Extracts, Water",
+      "price": 15000,
+      "category": "Vitamins & Supplements",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_2_184.jpg?width=72&height=115&store=default&image-type=thumbnail.jpg"
+    },
+    {
+      "name": "Sido Muncul Tentrem White Coffee",
+      "excerpt": "Contains 15 Sachets",
+      "slug": "sido-muncul-tentrem-white-coffee",
+      "size": "15 sachets",
+      "description": [
+        "Sido Muncul Tentrem White Coffee offers a delightful blend of coffee with creamy milk, providing a rich and satisfying beverage experience."
+      ],
+      "heroIngredients": [
+        {
+          "heroName": "Arabica Coffee",
+          "heroDesc": "Selected Arabica coffee beans are used to create a smooth and aromatic coffee base for a premium taste."
+        },
+        {
+          "heroName": "Creamer",
+          "heroDesc": "The creamy milk-based creamer adds richness and smoothness to the coffee, creating a perfect balance of flavors."
+        },
+        {
+          "heroName": "Sugar",
+          "heroDesc": "A touch of sugar enhances the sweetness of the coffee, making it a delightful treat for any time of the day."
+        }
+      ],
+      "fullIngredients": "Arabica Coffee, Creamer, Sugar",
+      "price": 25000,
+      "category": "Foods & Beverages",
+      "image": "https://www.sidomunculstore.com/media/catalog/product/s/l/slide_1_124.jpg?width=72&height=115&store=default&image-type=thumbnail.jpg"
+    }
+]
